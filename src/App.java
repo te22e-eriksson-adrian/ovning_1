@@ -12,5 +12,7 @@ public class App {
         int rest1 = 10%3;
         int rest2 = 9%3;
 
+        System.out.println(rest1 +" "+rest2);
+
         }
 }
